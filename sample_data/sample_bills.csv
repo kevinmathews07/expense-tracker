@@ -1,0 +1,4 @@
+﻿BillName,Amount,DueDay,Bank,Category,Notes
+Car Loan EMI,20000,20,Bank A,Loan,Monthly auto debit
+Fiber Internet,1200,10,Bank B,Utilities,Broadband bill
+Mobile Plan,300,25,Bank B,Utilities,Prepaid recharge

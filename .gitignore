@@ -1,0 +1,8 @@
+﻿# Ignore real bank statements and personal reports
+raw_statements/*
+!raw_statements/.gitkeep
+reports/*
+!reports/.gitkeep
+
+# Ignore your personal bill amounts/dates
+config/bills.csv
